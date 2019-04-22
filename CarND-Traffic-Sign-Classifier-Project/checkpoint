@@ -1,0 +1,2 @@
+model_checkpoint_path: "vgg16ish"
+all_model_checkpoint_paths: "vgg16ish"
