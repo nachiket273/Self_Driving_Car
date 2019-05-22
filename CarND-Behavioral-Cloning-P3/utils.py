@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 import matplotlib.pyplot as plt
+import sklearn
 
 IMG_HT, IMG_WIDTH, IMG_CH = 66, 200, 3
 
